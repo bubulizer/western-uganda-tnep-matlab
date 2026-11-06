@@ -1,0 +1,13 @@
+bus_id,name,type,base_kv,Pd_MW,Qd_MVAr,Pg_MW,Qg_MVAr,Vset_pu,Vmin_pu,Vmax_pu,Qmin_MVAr,Qmax_MVAr,latitude,longitude,provenance
+1,Masaka West 132,PQ,132,45,18,0,0,1.00,0.95,1.05,-999,999,-0.3411,31.7361,proposal+assumed injections/GPS
+2,Kabulasoke 132,PQ,132,24,10,0,0,1.00,0.95,1.05,-999,999,0.1240,31.7500,proposal+approximate GPS
+3,Nkonge 132,PQ,132,16,7,0,0,1.00,0.95,1.05,-999,999,0.4260,31.4540,proposal+approximate GPS
+4,Kahungye 132,PQ,132,20,8,0,0,1.00,0.95,1.05,-999,999,0.2110,30.4550,proposal+approximate GPS
+5,Nkenda 132,PQ,132,22,9,0,0,1.00,0.95,1.05,-999,999,0.0750,30.0550,proposal+approximate GPS
+6,Fort Portal 132,PV,132,18,7,28,0,1.02,0.95,1.05,-20,35,0.6710,30.2750,proposal+assumed injections/GPS
+7,Hoima 132,PV,132,25,10,42,0,1.02,0.95,1.05,-25,45,1.4356,31.3436,proposal+assumed injections/GPS
+8,Mbarara North 132,PV,132,0,0,35,0,1.01,0.95,1.05,-20,35,-0.5800,30.6500,proposal+assumed injections/GPS
+9,Mbarara South 132,PQ,132,0,0,0,0,1.00,0.95,1.05,-999,999,-0.6500,30.6500,proposal+approximate GPS
+10,Kyaka 132,PQ,132,14,6,0,0,1.00,0.95,1.05,-999,999,0.3920,31.0550,proposal+approximate GPS
+11,Mutundwe Bulk Grid,Slack,132,0,0,0,0,1.03,0.95,1.05,-999,999,0.2860,32.5480,proposal boundary+approximate GPS
+

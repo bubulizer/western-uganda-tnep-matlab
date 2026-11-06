@@ -1,0 +1,8 @@
+parameter,value,unit,provenance
+study_years,25,years,assumed
+discount_rate,0.10,fraction,assumed
+energy_price,90,USD_per_MWh,assumed scenario
+annual_load_factor,0.65,fraction,assumed
+annual_om_fraction,0.02,fraction_of_CAPEX,assumed
+value_of_lost_load,5000,USD_per_MWh,assumed scenario
+

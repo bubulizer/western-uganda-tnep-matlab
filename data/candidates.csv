@@ -1,0 +1,8 @@
+candidate_id,from_bus,to_bus,length_km,r_pu,x_pu,b_pu,rate_MVA,cost_MUSD,provenance
+1,2,3,78.0,0.026860,0.170035,0.047576,120,42.90,parallel circuit; assumed cost
+2,3,4,69.0,0.023760,0.150482,0.042088,120,37.95,parallel circuit; assumed cost
+3,4,5,69.11,0.023798,0.150722,0.042155,120,38.01,parallel circuit; assumed cost
+4,8,1,129.6,0.044628,0.282759,0.079034,180,71.28,parallel circuit; assumed cost
+5,1,10,85.0,0.029270,0.185414,0.051824,120,46.75,parallel circuit; assumed cost
+6,6,7,110.0,0.037879,0.239955,0.067083,180,60.50,parallel circuit; assumed cost
+7,11,2,84.5,0.029098,0.184242,0.051519,120,46.48,parallel bulk-grid circuit; assumed cost

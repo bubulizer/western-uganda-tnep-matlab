@@ -1,0 +1,14 @@
+branch_id,from_bus,to_bus,length_km,r_pu,x_pu,b_pu,rate_MVA,status,switchable,provenance
+1,11,2,84.5,0.029098,0.184242,0.051519,63.1,1,0,public length/rating; generic impedance
+2,2,1,59.5,0.020489,0.129707,0.036286,63.1,1,0,public length/rating; generic impedance
+3,2,3,78.0,0.026860,0.170035,0.047576,63.1,1,0,public length/rating; generic impedance
+4,3,4,69.0,0.023760,0.150482,0.042088,63.1,1,1,derived split of Nkonge-Nkenda
+5,4,5,69.11,0.023798,0.150722,0.042155,63.1,1,0,derived split of Nkonge-Nkenda
+6,5,6,70.0,0.024105,0.152663,0.042683,100.0,1,0,assumed route/rating
+7,6,7,110.0,0.037879,0.239955,0.067083,120.0,1,0,assumed route/rating
+8,7,4,125.0,0.043044,0.272670,0.076230,120.0,1,1,assumed route/rating
+9,4,8,100.0,0.034435,0.218090,0.060984,120.0,1,0,assumed route/rating
+10,8,1,129.6,0.044628,0.282759,0.079034,151.6,1,1,public length/rating; generic impedance
+11,1,10,85.0,0.029270,0.185414,0.051824,73.8,1,0,public length/rating; generic impedance
+12,8,9,10.0,0.003444,0.021809,0.006098,120.0,1,0,assumed equivalent interface
+
